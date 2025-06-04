@@ -43,7 +43,7 @@ Would you like me to generate this as a `README.md` file so you can directly upl
 
 ## 📄 License
 
-This project is licensed for educational and non-commercial use only.  
+This Assignment is licensed for educational and non-commercial use only.  
 Feel free to use, modify, and share with proper credits.
 
 ---
