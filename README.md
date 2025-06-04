@@ -41,5 +41,17 @@ This repository contains my completed Excel assignments as part of the **Data An
 
 Would you like me to generate this as a `README.md` file so you can directly upload it to your GitHub folder?
 
+## 📄 License
+
+This project is licensed for educational and non-commercial use only.  
+Feel free to use, modify, and share with proper credits.
+
+---
+
+## 👨‍💻 Author
+
+**Akhilesh Nishad**  
+Created as part of Excel/Data Analyst course assignment.  
+For queries, feel free to connect.
 
   
